@@ -1,2 +1,4 @@
 # hello_typeScript
-타입스크립트 기초 세미나 강의
+
+타입스크립트
+https://typescript-kr.github.io/pages/interfaces.html
